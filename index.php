@@ -4,7 +4,6 @@
 <script src="../ipsec/js/login.js"></script>
 <link rel="stylesheet" href="../ipsec/css/bootstrap.css">
 <link rel="stylesheet" href="../ipsec/css/login.css">
-<script src="/js/login.js"></script>
 
 <div class="container">
     <div class="row vertical-offset-100">
