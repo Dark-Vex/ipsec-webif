@@ -1,15 +1,11 @@
 <?php
 
-<<<<<<< HEAD
 ?>
 <script src="../ipsec/js/login.js"></script>
 <link rel="stylesheet" href="../ipsec/css/bootstrap.css">
 <link rel="stylesheet" href="../ipsec/css/login.css">
-=======
-//html form
 <script src="/js/login.js"></script>
 
->>>>>>> f1f4655a750beb9ba210a143f58fd1391e48d02a
 <div class="container">
     <div class="row vertical-offset-100">
     	<div class="col-md-4 col-md-offset-4">
@@ -39,8 +35,5 @@
 		</div>
 	</div>
 </div>
-<<<<<<< HEAD
 <?php
-=======
->>>>>>> f1f4655a750beb9ba210a143f58fd1391e48d02a
 ?>
